@@ -3,6 +3,9 @@
 This is a simple web application using Springboot, JPA, MySQL used to show basic CRUD operations using REST API.
 The web application is dockerized and it listens to a MySQL server running on the host machine.
 
+## Requirements:
+Ubuntu (tested on 18.04LTS)
+
 ## Pre-Installations:
 The application requires docker and mysql to be install on host machine. Run the setup.sh (Use sudo if required) script to install if not present;
 
