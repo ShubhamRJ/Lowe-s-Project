@@ -1,0 +1,32 @@
+1. GET /api/employee
+Response body:
+[
+	{
+		id:
+		name:
+		department:
+		dob:
+		gender:
+	}
+]
+
+2. POST /api/employee
+Request body:
+{
+	name:
+	department:
+	dob:
+	gender:
+}
+
+3. DELETE /api/employee/{id}
+
+4. PUT /api/employee
+Request body:
+{
+	id:
+	name:
+	department:
+	dob:
+	gender:
+}
